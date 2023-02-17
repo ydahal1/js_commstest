@@ -1,4 +1,4 @@
-Create .env file
-add CLUSTER_URL and CLUSTER_PORT
-Run npm i
-Run nodemon app.js
+1. Create .env file
+2. add CLUSTER_URL and CLUSTER_PORT
+3. Run npm i
+4. Run nodemon app.js
